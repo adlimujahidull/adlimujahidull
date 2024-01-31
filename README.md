@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Mujahidul Adli===============================================================================================================================================University Technology Malaysia------------------------------I am Student in Faculty of Computing (Software Engineering) in Universiti Teknologi Malaysia, Johor, Johor bahru* 🌍  I'm based in Indonesia* ✉️  You can contact me at [m.mujahidul.adli@gmail.com](mailto:m.mujahidul.adli@gmail.com)* 🤝  I'm open to collaborating on Project and Assesment
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Mujahidul Adli
+===============================================================================================================================================
+University Technology Malaysia
+------------------------------
+I am Student in Faculty of Computing (Software Engineering) in Universiti Teknologi Malaysia, Johor, Johor bahru
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me at [m.mujahidul.adli@gmail.com](mailto:m.mujahidul.adli@gmail.com)
+* 🤝  I'm open to collaborating on Project and Assesment
 
 ### Skills
 
