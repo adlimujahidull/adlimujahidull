@@ -1,28 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Mujahidul Adli
-===============================================================================================================================================
-University Technology Malaysia
-------------------------------
-I am Student in Faculty of Computing (Software Engineering) in Universiti Teknologi Malaysia, Johor, Johor bahru
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Github Portofolio](http://adlimujahidull.github.io/)
-* ✉️  You can contact me at [m.mujahidul.adli@gmail.com](mailto:m.mujahidul.adli@gmail.com)
-* 🤝  I'm open to collaborating on Project and Assesment
+# Hi there, I'm Muhammad Mujahidul Adli! 👋
 
-### Skills
+🎓 **Final Year Software Engineering Student**  
+💻 Faculty of Computing, **Universiti Teknologi Malaysia (UTM)**  
+🌏 Based in **Indonesia & Malaysia**  
 
+---
 
+## 🚀 About Me
+I’m a passionate **Software Engineering student** with interests in **mobile app development, web development, cloud computing, and software quality assurance**.  
+I love building projects that solve real problems and continuously improve my skills through collaboration and learning.  
+
+- 🔭 Currently working on: **CarePlus** – a healthcare reminder app built with Flutter & Firebase.  
+- 📚 Learning more about: **DevOps, Cloud Computing (GCP/AWS), and Advanced Testing Tools**.  
+- 🤝 Open to collaboration in: **Mobile Apps, Web Platforms, and Research Projects**.  
+- 🎯 Goal: To become a **full-stack software engineer** with strong foundations in software quality and cloud technologies.  
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Scripting
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+</p>
+
+### Mobile & Web Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="36" height="36" alt="Dart"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
+</p>
+
+### Databases & Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="Metamask"/>
+</p>
+
+---
+
+## 📌 Projects Highlights
+- 🏥 **CarePlus App** – A healthcare reminder app (Flutter + Firebase).  
+- 📊 **HealthJourney App** – Online healthcare consultation platform.  
+- 📅 **Timetable System** – Web-based responsive timetable viewer for students & lecturers (Vue.js + API integration).  
+- 📦 **E-Commerce Analysis** – Lazada requirements analysis & system design.  
+- ✅ **Software Quality Assurance Assignments** – White-box testing, black-box testing, decision tables, state transitions, and JUnit automation.  
+
+---
+
+## 🎓 Education
+- **Universiti Teknologi Malaysia (UTM)** – Bachelor of Software Engineering  
+  (Faculty of Computing, Johor Bahru, Johor, Malaysia)  
+
+---
+
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>
-### Socials<p align="left"> <a href="https://discord.com/users/vistadel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/adlimujahidull" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mujahiduladli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<a href="mailto:m.mujahidul.adli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.github.com/adlimujahidull"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="http://www.instagram.com/mujahiduladli"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discord.com/users/vistadel"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📊 GitHub Analytics
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=adlimujahidull&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adlimujahidull&theme=tokyonight" height="180em"/>
+</p>
 
-<a href="http://www.github.com/adlimujahidull"><img src="https://github-readme-stats.vercel.app/api?username=adlimujahidull&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adlimujahidull's GitHub stats" /></a>
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adlimujahidull&theme=tokyo-night&area=true"/>
+</p>
 
-<a href="http://www.github.com/adlimujahidull"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adlimujahidull&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/adlimujahidull"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=adlimujahidull&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/adlimujahidull" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlimujahidull&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlimujahidull&layout=compact&langs_count=10&theme=tokyonight"/>
+</p>
