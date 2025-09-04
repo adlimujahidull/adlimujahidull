@@ -21,8 +21,8 @@ Currently, I am a **final-year student at Universiti Teknologi Malaysia (UTM)**.
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rlang/rlang-original.svg" width="36" height="36" alt="R"/>
 </p>
 
 ### Mobile & Web Development
@@ -63,11 +63,13 @@ Currently, I am a **final-year student at Universiti Teknologi Malaysia (UTM)**.
 
 ---
 
-## 🎮 Pac-Man Contribution Graph (Animated)
-<p align="center">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/main/assets/pacman-graph.gif" width="600">
+## 🌐 Connect with Me
+<p align="left">
+<a href="mailto:m.mujahidul.adli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.github.com/adlimujahidull"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="http://www.instagram.com/mujahiduladli"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discord.com/users/vistadel"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
 
 ---
 
@@ -87,10 +89,7 @@ Currently, I am a **final-year student at Universiti Teknologi Malaysia (UTM)**.
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="mailto:m.mujahidul.adli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.github.com/adlimujahidull"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="http://www.instagram.com/mujahiduladli"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://discord.com/users/vistadel"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
+## 🎮 Pac-Man Contribution Graph (Animated)
+<p align="center">
+  <img alt="Pac-Man Animated Graph" src="https://github.com/DenverCoder1/github-readme-pacman-activity-graph/raw/master/output/pacman-activity-graph.gif" width="600"/>
 </p>
