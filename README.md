@@ -63,12 +63,11 @@ Currently, I am a **final-year student at Universiti Teknologi Malaysia (UTM)**.
 
 ---
 
-## 🎮 Pac-Man Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph.svg?v=1">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph.svg?v=1">
-</picture>
+## 🎮 Pac-Man Contribution Graph (Animated)
+<p align="center">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/main/assets/pacman-graph.gif" width="600">
+</p>
+
 
 ---
 
