@@ -86,3 +86,11 @@ Currently, I am a **final-year student at Universiti Teknologi Malaysia (UTM)**.
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlimujahidull&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph.svg">
+</picture>
