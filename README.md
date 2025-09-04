@@ -7,13 +7,11 @@
 ---
 
 ## 🚀 About Me
-I’m a passionate **Software Engineering student** with interests in **mobile app development, web development, cloud computing, and software quality assurance**.  
-I love building projects that solve real problems and continuously improve my skills through collaboration and learning.  
+I’m a passionate **Software Engineering student** with strong interest in building software that solves real-world problems.  
+Currently, I am a **final-year student at Universiti Teknologi Malaysia (UTM)**.  
 
-- 🔭 Currently working on: **CarePlus** – a healthcare reminder app built with Flutter & Firebase.  
-- 📚 Learning more about: **DevOps, Cloud Computing (GCP/AWS), and Advanced Testing Tools**.  
-- 🤝 Open to collaboration in: **Mobile Apps, Web Platforms, and Research Projects**.  
-- 🎯 Goal: To become a **full-stack software engineer** with strong foundations in software quality and cloud technologies.  
+- 📚 Exploring more about **Web Development, Machine Learning, and Data Analysis**.  
+- 🎯 Goal: To become a **full-stack software engineer** with strong foundations in software quality and modern development practices.  
 
 ---
 
@@ -43,9 +41,8 @@ I love building projects that solve real problems and continuously improve my sk
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
 </p>
 
-### Tools & Platforms
+### Tools
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="Metamask"/>
@@ -57,8 +54,6 @@ I love building projects that solve real problems and continuously improve my sk
 - 🏥 **CarePlus App** – A healthcare reminder app (Flutter + Firebase).  
 - 📊 **HealthJourney App** – Online healthcare consultation platform.  
 - 📅 **Timetable System** – Web-based responsive timetable viewer for students & lecturers (Vue.js + API integration).  
-- 📦 **E-Commerce Analysis** – Lazada requirements analysis & system design.  
-- ✅ **Software Quality Assurance Assignments** – White-box testing, black-box testing, decision tables, state transitions, and JUnit automation.  
 
 ---
 
