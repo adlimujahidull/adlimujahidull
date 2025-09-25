@@ -73,18 +73,10 @@ Currently, I am a **final-year student at Universiti Teknologi Malaysia (UTM)**.
 
 ---
 
-## 📊 GitHub Analytics
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=adlimujahidull&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adlimujahidull&theme=tokyonight" height="180em"/>
-</p>
+### 📈 GitHub Stats
 
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adlimujahidull&theme=tokyo-night&area=true"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlimujahidull&layout=compact&langs_count=10&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adlimujahidull&show_icons=true&theme=radical" height="180"/>
 </p>
 
 ---
