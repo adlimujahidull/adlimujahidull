@@ -20,6 +20,7 @@
 💡 Interested in building practical software systems with strong foundations in **software design, full-stack development, and user-centered solutions**
 
 I have worked on academic and team-based projects across:
+
 - **Full-stack web development**
 - **Mobile application development**
 - **Database-backed systems**
@@ -33,84 +34,84 @@ I have worked on academic and team-based projects across:
 
 ### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="42" height="42" alt="R"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,dart,r,html,css,mysql&theme=light" alt="Languages" />
 </p>
 
 ### Frameworks & Technologies
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="42" height="42" alt="Vue.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42" height="42" alt="Firebase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"/>
+  <img src="https://skillicons.dev/icons?i=vue,flutter,nodejs,express,firebase,postgres,mysql&theme=light" alt="Frameworks" />
 </p>
 
-### Tools
+### Tools & Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" height="42" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp&theme=light" alt="Tools" />
 </p>
 
 ---
 
-## Project Highlights
+## Projects
 
-### 🏠 Integrated Real Estate Rental and Management Platform
-A full-stack platform for **tenants, agents, and landlords** that supports rental workflows from listing to maintenance and notifications.  
-**Stack:** Vue.js, Node.js, Express.js, PostgreSQL, Firebase
+### 🏠 Integrated Real Estate Rental & Management Platform
+A full-stack multi-role platform supporting tenants, agents, and landlords across the full rental lifecycle — from property listing to maintenance requests and automated notifications.
 
-### 🏥 CarePlus
-A mobile healthcare application focused on **medicine reminders, appointments, hospital locator, and health support features**.  
-**Stack:** Flutter, Firebase
+`Vue.js` `Node.js` `Express.js` `PostgreSQL` `Firebase`
+
+---
+
+### 🏥 CarePlus — Mobile Healthcare App
+A Flutter-based healthcare companion app featuring medicine reminders, appointment scheduling, hospital locator, and health support features, backed by Firebase.
+
+`Flutter` `Dart` `Firebase`
+
+---
 
 ### 📅 Timetable Management System
-A web-based responsive timetable platform for students and lecturers with structured academic workflows and API-based data integration.  
-**Stack:** Vue.js, JavaScript, API Integration
+A responsive web platform for students and lecturers featuring structured academic timetable workflows and real-time API-based data integration.
 
-### ☁️ DriveHub
-A Google Drive resource-sharing management system designed for faculty use, emphasizing organized access and sharing workflows.  
-**Stack:** Vue.js, Node.js, Google Drive API
+`Vue.js` `JavaScript` `REST API`
+
+---
+
+### ☁️ DriveHub — Google Drive Resource Manager
+A resource-sharing management system built for faculty use, enabling organized file access and structured sharing workflows on top of the Google Drive API.
+
+`Vue.js` `Node.js` `Google Drive API`
+
+---
 
 ### 🏢 UTM Facilities Hub
-A digital facility booking platform with attention to efficient process handling using core data structure concepts.
+A digital facility booking platform with process-efficient architecture using core data structure concepts for academic facility management.
 
 ---
 
-## Current Focus
+## GitHub Stats
 
-- Full-stack web application development
-- Database systems and backend workflows
-- Building practical systems for real users
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adlimujahidull&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlimujahidull&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
----
+<br/>
 
-## Contribution Graph
-
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph.svg">
   </picture>
-</p>
+</div>
 
 ---
 
 ## Education
 
 **Universiti Teknologi Malaysia (UTM)**  
-Bachelor of Software Engineering  
-Faculty of Computing, Johor Bahru, Johor, Malaysia
+Bachelor of Software Engineering (Hons.)  
+Faculty of Computing · Johor Bahru, Johor, Malaysia
+
+---
+
+<div align="center">
+  <sub>Open to internship & collaboration opportunities · Feel free to reach out</sub>
+</div>
