@@ -84,20 +84,6 @@ A digital facility booking platform with process-efficient architecture using co
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adlimujahidull&theme=github">
-    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adlimujahidull&theme=github" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adlimujahidull&theme=github">
-    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adlimujahidull&theme=github" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adlimujahidull/adlimujahidull/output/pacman-contribution-graph-dark.svg">
